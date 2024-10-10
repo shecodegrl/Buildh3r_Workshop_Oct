@@ -84,3 +84,47 @@ Using the anonymised key: 29b468f794dfb7f2ab7ce15799aa64ae
 
 
 ## 3. Hello World - HSCS: Smart Contracts
+
+
+Hashscan URL from the smart contract output:
+
+Smart contract deployment Hashscan URL:
+ https://hashscan.io/testnet/contract/0xA0CfBD70772C2b984d66f398EA8C618e4EAE746d
+
+Smart contract write transaction Hashscan URL:
+ https://hashscan.io/testnet/transaction/0x71344755e83f12e51f3d33a8359143a9fecc4aa519f47870ef8c08249cc0a355
+
+
+ <img width="423" alt="image" src="https://github.com/user-attachments/assets/5091efd0-5f12-49c3-aa0b-e85a50fc4259">
+
+ 
+🔢 Summary metrics  …
+
+Has completed a task: true
+
+First task completed ID: hscsSC
+
+Time to first task completion: 3min 21.0s
+
+Time to all tasks completion: 3min 21.0s
+
+Total number of task completions: 1
+
+Completed tasks: 1
+
+(1) Task ID: hscsSC (latest)
+
+Time taken to complete (first): 1min 9.3s
+
+Time taken to complete (latest): 1min 9.3s
+
+Errors prior to completion: 0
+
+Attempted but incomplete tasks: 0
+
+View HCS metrics on HashScan:
+
+ https://hashscan.io/testnet/topic/0.0.4573319 
+ 
+Using the anonymised key: 3ec75c09ef043ed419e3dbc56c808017
+
