@@ -44,4 +44,43 @@ Using the anonymised key: bc06a1116c59afaca3bcbae45b0b749e
 
 ## 2. Hello World - HCS: Topic
 
+Hashscan URL from the HCS topic output:
+
+ https://hashscan.io/testnet/topic/0.0.4978196
+
+ <img width="425" alt="image" src="https://github.com/user-attachments/assets/0f9a5a1a-3f8f-4109-8f2a-a9c6e825034a">
+
+
+🔢 Summary metrics  …
+
+Has completed a task: true
+
+First task completed ID: hcsTopic
+
+Time to first task completion: 1min 22.2s
+
+Time to all tasks completion: 1min 22.2s
+
+Total number of task completions: 1
+
+Completed tasks: 1
+
+(1) Task ID: hcsTopic (latest)
+
+Time taken to complete (first): 17.5s
+
+Time taken to complete (latest): 17.5s
+
+Errors prior to completion: 0
+
+Attempted but incomplete tasks: 0
+
+View HCS metrics on HashScan:
+
+ https://hashscan.io/testnet/topic/0.0.4573319 
+ 
+Using the anonymised key: 29b468f794dfb7f2ab7ce15799aa64ae
+
+
+
 ## 3. Hello World - HSCS: Smart Contracts
